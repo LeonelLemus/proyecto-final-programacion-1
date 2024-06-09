@@ -1,0 +1,112 @@
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\bin\Debug\bookmedik-win.exe
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\bin\Debug\bookmedik-win.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik-win.csprojResolveAssemblyReference.cache
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.Form1.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.Properties.Resources.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik-win.csproj.GenerateResource.Cache
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik-win.exe
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik-win.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.PacientForm.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.MedicForm.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.ReservationForm.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.MedicWindow.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.PacientWindow.resources
+c:\users\agustin\documents\visual studio 2013\Projects\bookmedik-win\bookmedik-win\obj\Debug\bookmedik_win.About.resources
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik-win.csproj.AssemblyReference.cache
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.About.resources
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.Form1.resources
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.MedicForm.resources
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.MedicWindow.resources
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.PacientForm.resources
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.PacientWindow.resources
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.Properties.Resources.resources
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.ReservationForm.resources
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik-win.csproj.GenerateResource.cache
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik-win.csproj.CoreCompileInputs.cache
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik-win.exe
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik-win.pdb
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\bookmedik-win.exe.config
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\bookmedik-win.exe
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\bookmedik-win.pdb
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\Google.Protobuf.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\MySql.Data.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Buffers.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.IO.Pipelines.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Memory.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\ZstdSharp.dll
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\Google.Protobuf.pdb
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\Google.Protobuf.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\MySql.Data.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Buffers.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.IO.Pipelines.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Memory.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedi.2CF8556B.Up2Date
+C:\Users\LEGYON\Desktop\actualizaciones spiderman 2\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.ReservationWindow.resources
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\bookmedik-win.exe.config
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\bookmedik-win.exe
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\bookmedik-win.pdb
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\Google.Protobuf.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\MySql.Data.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Buffers.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.IO.Pipelines.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Memory.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\ZstdSharp.dll
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\Google.Protobuf.pdb
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\Google.Protobuf.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\MySql.Data.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Buffers.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.IO.Pipelines.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Memory.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik-win.csproj.AssemblyReference.cache
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.About.resources
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.Form1.resources
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.MedicForm.resources
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.MedicWindow.resources
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.PacientForm.resources
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.PacientWindow.resources
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.Properties.Resources.resources
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.ReservationForm.resources
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik_win.ReservationWindow.resources
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik-win.csproj.GenerateResource.cache
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik-win.csproj.CoreCompileInputs.cache
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedi.2CF8556B.Up2Date
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik-win.exe
+C:\Users\LEGYON\Desktop\proyecto final programcion 1\bookmedik-win-master\bookmedik-win\obj\Debug\bookmedik-win.pdb
